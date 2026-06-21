@@ -1,0 +1,54 @@
+# 01_global_superstore_analysis
+
+## Project Overview
+This project is an Excel-based analysis of a Global Superstore sales dataset. The goal is to clean, analyze, and visualize sales performance using Excel formulas, Pivot Tables, Pivot Charts, and a dashboard.
+
+## Dataset
+The dataset contains **2,400 sales orders** from **January 2024 to December 2024**. It includes order details such as order date, region, city, salesperson, product, category, quantity, discount, revenue, payment mode, and order status.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel Formulas
+- Conditional Formatting
+- Dashboard Design
+
+## Key KPIs
+- **Total Orders:** 2,400
+- **Total Revenue:** ₹17.73 Cr
+- **Average Order Value:** ₹73.89K
+- **Revenue Lost Due to Discount:** ₹2.95 Cr
+- **Average Discount:** 14.62%
+
+## Analysis Performed
+- Revenue trend analysis
+- Region-wise sales analysis
+- Category and product performance analysis
+- Salesperson performance analysis
+- Payment mode analysis
+- Order status analysis
+- Discount impact analysis
+
+## Key Insights
+- The **North region** generated the highest revenue.
+- **Electronics** was the top-performing category.
+- Credit Card and Cash were among the highest revenue-generating payment modes.
+- Most orders were delivered, but pending, returned, and cancelled orders require monitoring.
+- Discounts caused a revenue loss of around **₹2.95 Cr**, showing the need to track discount impact.
+
+## Excel Concepts Used
+- Data cleaning
+- Revenue calculation
+- Discount amount calculation
+- Pivot Table summaries
+- KPI cards
+- Dashboard creation
+- Conditional formatting
+- Business insight generation
+
+## Business Use Case
+This project helps management understand sales performance, identify top regions and products, monitor discounts, track order status, and make better business decisions.
+
+## Conclusion
+The **01_global_superstore_analysis** project converts raw sales data into meaningful business insights through Excel-based reporting and dashboarding. It demonstrates practical skills in data cleaning, analysis, visualization, and business reporting.
